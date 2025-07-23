@@ -84,7 +84,7 @@ A mensagem será colada no campo e enviada automaticamente
 
 ### 🖼️ Interface do Sistema
 
-![Interface do Sistema](Interface.png)
+![Interface do Sistema](img/Interface.png)
 
 ## 🧪 Exemplo de Mensagem Enviada
 
