@@ -66,3 +66,33 @@ selenium
 webdriver-manager
 pillow
 ```
+
+## 🚀 Como usar
+Execute o arquivo:
+
+```bash
+python app.py
+```
+
+Preencha os campos obrigatórios
+
+Clique em 📤 Enviar pelo WhatsApp
+
+O Chrome abrirá o WhatsApp Web
+
+A mensagem será colada no campo e enviada automaticamente
+
+## 🧪 Exemplo de Mensagem Enviada
+
+```markdown
+Olá João da Silva, tudo bem?
+
+Seu exame de *RAIO-X DE TÓRAX* está agendado para o dia *23/07/2025* às *14:00*.
+🏥 Local: Hospital Central
+
+ℹ️ Observações: Chegar com 15 minutos de antecedência
+
+Em caso de desistência, por favor, avisar com antecedência.
+
+Estamos à disposição!
+```
