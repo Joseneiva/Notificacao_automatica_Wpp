@@ -43,8 +43,8 @@ Um aplicativo em Python com interface gráfica (Tkinter) que automatiza o envio 
 ### 1. Clone este repositório
 
 ```bash
-git clone https://github.com/seu-usuario/notificacao-whatsapp.git
-cd notificacao-whatsapp
+git clone https://github.com/Joseneiva/Notificacao_automatica_Wpp.git
+cd Notificacao_automatica_Wpp
 ```
 ### 2. Crie um ambiente virtual (opcional)
 
