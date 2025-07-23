@@ -82,6 +82,10 @@ O Chrome abrirá o WhatsApp Web
 
 A mensagem será colada no campo e enviada automaticamente
 
+### 🖼️ Interface do Sistema
+
+![Interface do Sistema](Interface.png)
+
 ## 🧪 Exemplo de Mensagem Enviada
 
 ```markdown
